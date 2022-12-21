@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/AeX03/TradingBot/blob/main/w%3D525.webp"  width="1100"/>
+
 # TradingBot
 
 <div  align="center">
