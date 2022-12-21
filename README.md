@@ -105,6 +105,8 @@ python -m asyncio /byBotTrading.py</pre></div>
 ## Supporters
 [![Stargazers repo roster for @AeX03/TradingBot](https://reporoster.com/stars/dark/AeX03/TradingBot)](https://github.com/AeX03/TradingBot/stargazers)
 [![Forkers repo roster for @AeX03/TradingBot](https://reporoster.com/forks/dark/AeX03/TradingBot)](https://github.com/AeX03/TradingBot/network/members)
+[![Watchers repo roster for @AeX03/TradingBot](https://reporoster.com/forks/dark/AeX03/TradingBot)](https://github.com/AeX03/TradingBot/watchers)
+
 
 ## License
 AeX03 is made with 🖤 [Contributors](https://github.com/AeX03/TradingBot/graphs/contributors). See the **License** file for more details.
