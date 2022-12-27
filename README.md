@@ -98,4 +98,4 @@ python -m asyncio /byBotTrading.py</pre></div>
 ## License
 AeX03 is made with 🖤 [Contributors](https://github.com/AeX03/TradingBot/graphs/contributors). See the **License** file for more details.
 <br>
-luca364 is made with 🖤 [Contributors](https://github.com/luca364). See the **License** file for more details.
+Luca364 is made with 🖤 [Contributors](https://github.com/luca364). See the **License** file for more details.
