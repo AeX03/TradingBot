@@ -27,7 +27,9 @@
 Scrypt JS & PY recap:
 
 Here is the summary of the code that you will find in JavaScrypt as well as in Python
-
+<br>
+<img align src="https://github.com/AeX03/AeX03/blob/main/picture/gif-line.gif"/>
+<br>
 01. Requests a connection to the Metamask account on the Ethereum network.
 02. Asks for a desired profit percentage.
 03. Requests the number of ethereum wallet balances to reach.
