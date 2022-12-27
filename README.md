@@ -28,7 +28,7 @@ Scrypt JS & PY recap:
 
 Here is the summary of the code that you will find in JavaScrypt as well as in Python
 <br>
-<img align src="https://github.com/AeX03/AeX03/blob/main/picture/gif-line.gif"/>
+<img align width="1800" src="https://github.com/AeX03/AeX03/blob/main/picture/gif-line.gif"/>
 <br>
 01. Requests a connection to the Metamask account on the Ethereum network.
 02. Asks for a desired profit percentage.
@@ -36,23 +36,23 @@ Here is the summary of the code that you will find in JavaScrypt as well as in P
 03. Retrieve a list of all the tokens available on the Ethereum network using the coincapmarket site for real-time prices.
 04. Portfolio Value Recovery.
 05. Start a loop that will buy chips with the desired percentage value.
-------------------------
 06. Inside the loop, it finds the token with the highest profit potential by :
 - Retrieve the exchange rate of each token.
 - Calculation of the potential profit as a percentage of the ETH reserve.
--. Keep track of the token with the highest profit in a specifc folder to see which tokens are buying.
-------------------------
-07. After finding the token with the highest profit potential, he checks if there are enough funds in the Metamask account to buy the token while signing the transaction. If there are not enough funds, he will go to the next token and will write a message next to the token in the specifc folder with the NAME, ADDRESS and quantity he could not buy.
+- Keep track of the token with the highest profit in a specifc folder to see which tokens are buying.
+07. After finding the token with the highest profit potential, he checks if there are enough funds in the Metamask account to buy the token while signing the   transaction. If there are not enough funds, he will go to the next token and will write a message next to the token in the specifc folder with the NAME, ADDRESS and quantity he could not buy.
 08. It then checks if one of the tokens with the token sell percentage rate has been reached if so it will start a loop to sell it.
-------------------------
 09. Inside the loop, if it finds the token with the percentage to reach it will :
 - Sell the token and keep track in the specific folder with the NAME, ADDRESS it sold.
 - Show win percentage win.
-------------------------
 10. It also checks if the value of the wallet has reached its limit (X ETH). If not, it will start the buying and selling loop again.
 If so, it exits the loop and displays a BALANCES REACHED X ETH message.
 11. He then donates a portion (0.10%) of the balance to the creator for providing the open-source code and recovering a percentage of the due on each share sold !
 12. When the loop completes, it prints a message that the balance has reached X ETH.
+
+<br>
+<img align width="1800" src="https://github.com/AeX03/AeX03/blob/main/picture/gif-line.gif"/>
+<br>
 
 ## Start Project for JavaScript JS & Python PY
 
