@@ -68,18 +68,7 @@ If so, it exits the loop and displays a BALANCES REACHED X ETH message.
    <td>
 <div class="highlight highlight-source-shell"><pre># Install the requirements <br>
 Install File in doc name "Installer"
-or use
-npm install Web3 uniswap-sdk bignumber.js
 </pre></div>
-<div class="highlight highlight-source-shell"><pre># Add Your Account Metamask in BotTrading.js <br>
-Remplace your "YOUR_ACCOUNT_ADDRESS" 
-by "Your Wallet Address"
-Remplace your "YOUR_ACCOUNT_PASSWORD" 
-by "Your PassWord Wallet" /pre></div>
-<div class="highlight highlight-source-shell"><pre># Add Your Network ETH <br>
-Remplace your "YOUR_PROVIDER_URL" by 
-"https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID"
-Exemple : infura.io etc... </pre></div>
 <div class="highlight highlight-source-shell"><pre># Will update the script <br>
 sudo bash update.sh</pre></div>
 <div class="highlight highlight-source-shell"><pre># Start the TradingBot.js <br>
@@ -88,20 +77,7 @@ node /BotTrading.js</pre></div>
    <td>
 <div class="highlight highlight-source-shell"><pre># Install the requirements <br>
 Install File in doc name "Installer"
-or use
-pip install Web3 uniswap-python Decimal
-or use
-python -m pip install Web3 uniswap-python Decimal
 </pre></div>
-<div class="highlight highlight-source-shell"><pre># Add Your Account Metamask in BotTrading.py <br>
-Remplace your "YOUR_ACCOUNT_ADDRESS"
-by "Your Wallet Address"
-Remplace your "YOUR_ACCOUNT_PASSWORD"
-by "Your PassWord Wallet" /pre></div>
-<div class="highlight highlight-source-shell"><pre># Add Your Network ETH <br>
-Remplace your "YOUR_PROVIDER_URL" by 
-"https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID"
-Exemple : infura.io etc... </pre></div>
 <div class="highlight highlight-source-shell"><pre># Will update the script <br>
 sudo bash update.sh</pre></div>
 <div class="highlight highlight-source-shell"><pre># Start the TradingBot.py <br>
