@@ -67,7 +67,10 @@ If so, it exits the loop and displays a BALANCES REACHED X ETH message.
   <tr>
    <td>
 <div class="highlight highlight-source-shell"><pre># Install the requirements <br>
-Install File in doc name "Installer"
+Install File in doc name "Installer.sh"
+use sudo chmod +x install.sh
+and sudo ./install.sh
+or sudo bash install.sh
 </pre></div>
 <div class="highlight highlight-source-shell"><pre># Will update the script <br>
 sudo bash update.sh</pre></div>
@@ -77,6 +80,9 @@ node /BotTrading.js</pre></div>
    <td>
 <div class="highlight highlight-source-shell"><pre># Install the requirements <br>
 Install File in doc name "Installer"
+use sudo chmod +x install.sh
+and sudo ./install.sh
+or sudo bash install.sh
 </pre></div>
 <div class="highlight highlight-source-shell"><pre># Will update the script <br>
 sudo bash update.sh</pre></div>
