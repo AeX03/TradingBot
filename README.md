@@ -19,6 +19,9 @@
 [![Tornado](https://img.shields.io/badge/NOVA-Tornado%20Cash-brightgreen.svg)](https://img.shields.io/badge/-available%20/09/2022-lightgrey)
 <br>
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=CameLys.eLys&left_color=gray&right_color=purple&left_text=New%20Visitors%20Today)](https://github.com/AeX03)
+<br>
+<br>
+[![SELLIX TO BUY](https://img.shields.io/badge/MY%20SELLIX%20SHOP%20TO%20BUY-red.svg)](https://aex03.mysellix.io/)
 </div >
 <br>
 
